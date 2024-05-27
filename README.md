@@ -1,3 +1,21 @@
+## Entrance page 
+Some info can be changed(services,recommendation,brand) in admin-panel
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/c72211b3-783d-4092-bd59-2f6432c10f61)
+
+## Some pages
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/0842221c-4d89-4835-8218-d7945ad873cb)
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/e796c901-1a65-4086-9b30-a07ff7974782)
+
+## History page
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/6ce762c4-c879-4f7a-ad95-beb11609ec34)
+
+## Admin panel
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/b409a964-57a3-4f78-84ba-a00c7e955708)
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/85fa6111-2a88-4ac8-90aa-ececcf13afb1)
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/df31b999-1a2b-405b-82a2-8f4d531a4238)
+![image](https://github.com/JASUR2007/store_level2.0/assets/62153427/d2bebc37-e60a-4e26-8ad6-b84fff04cd40)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
